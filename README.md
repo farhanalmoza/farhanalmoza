@@ -1,7 +1,7 @@
 - Hi 👋, Farkhan here 
-- 👀 I’m interested in back end web developer
-- 🌱 I’m currently learning laravel 8
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in back end web & machine learning developer
+- 🌱 I’m currently learning deep learning with python
+- 💞️ I’m looking to collaborate on artificial intelligence
 - 📫 Email : farkhanjayadi@gmail.com
 
 <!---
