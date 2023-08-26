@@ -1,4 +1,4 @@
-<h1><strong>Hi folks👋, Farhan here</strong></h1>
+<h1><strong>Hi folks👋, Farkhan here</strong></h1>
 
 - 👀 I’m interested in back end web & machine learning development
 - 🌱 I’m currently learning deep learning with tensorflow
