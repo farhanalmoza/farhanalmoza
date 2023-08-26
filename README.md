@@ -1,7 +1,7 @@
-- Hi 👋, Farkhan here 
-- 👀 I’m interested in back end web & machine learning developer
-- 🌱 I’m currently learning deep learning with python
-- 💞️ I’m looking to collaborate on artificial intelligence
+<h1><strong>Hi folks👋, Farhan here</strong></h1>
+
+- 👀 I’m interested in back end web & machine learning development
+- 🌱 I’m currently learning deep learning with tensorflow
 - 📫 Email : farkhanjayadi@gmail.com
 
 <!---
